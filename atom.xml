@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CapooOuO</title>
+  
+  
+  <link href="https://capooouo-0022.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://capooouo-0022.github.io/"/>
+  <updated>2020-12-08T13:13:40.612Z</updated>
+  <id>https://capooouo-0022.github.io/</id>
+  
+  <author>
+    <name>CapooOuO</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://capooouo-0022.github.io/2020/12/08/TEST-1/"/>
+    <id>https://capooouo-0022.github.io/2020/12/08/TEST-1/</id>
+    <published>2020-12-08T12:31:00.000Z</published>
+    <updated>2020-12-08T13:13:40.612Z</updated>
+    
+    <content type="html"><![CDATA[<p>:laughing:<br>:laughing:<br>:laughing:<br>關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參</p><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;:laughing:&lt;br&gt;
+:laughing:&lt;br&gt;
+:laughing:&lt;br&gt;
+關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參關於 Markdown 語法的部分，可以參&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="C#" scheme="https://capooouo-0022.github.io/categories/C/"/>
+    
+    
+    <category term="test" scheme="https://capooouo-0022.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD%20(2)/"/>
+    <id>https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD%20(2)/</id>
+    <published>2020-12-08T10:49:53.582Z</published>
+    <updated>2020-12-08T10:27:37.643Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD/"/>
+    <id>https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD/</id>
+    <published>2020-12-08T10:49:52.858Z</published>
+    <updated>2020-12-08T12:11:34.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+    <category term="Testing" scheme="https://capooouo-0022.github.io/tags/Testing/"/>
+    
+    <category term="Another Tag" scheme="https://capooouo-0022.github.io/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD%20(3)/"/>
+    <id>https://capooouo-0022.github.io/2020/12/08/hello-world%20-%20%E8%A4%87%E8%A3%BD%20(3)/</id>
+    <published>2020-12-08T10:49:00.000Z</published>
+    <updated>2020-12-08T13:31:27.496Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="HTML" scheme="https://capooouo-0022.github.io/categories/HTML/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Schedule</title>
+    <link href="https://capooouo-0022.github.io/2014/12/22/hello-world/"/>
+    <id>https://capooouo-0022.github.io/2014/12/22/hello-world/</id>
+    <published>2014-12-22T04:39:00.000Z</published>
+    <updated>2020-12-08T13:31:57.868Z</updated>
+    
+    <content type="html"><![CDATA[<p>AAAAAAAAAAAAAAAAAAAAA</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;AAAAAAAAAAAAAAAAAAAAA&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Testing" scheme="https://capooouo-0022.github.io/tags/Testing/"/>
+    
+    <category term="Another Tag" scheme="https://capooouo-0022.github.io/tags/Another-Tag/"/>
+    
+  </entry>
+  
+</feed>
